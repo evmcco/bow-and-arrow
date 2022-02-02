@@ -6,5 +6,5 @@ This is a simple bow and arrow game for a technical assessment. Click the Draw b
 
 You can clone this repo and run the following commands to play.
 
-npm i
-npm run start
+* npm i
+* npm run start
